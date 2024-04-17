@@ -23,6 +23,7 @@
 //	}
 //	else printf("%d²»ÊÇÈòÄê", n);
 //	return 0;
+<<<<<<< HEAD
 //}
 void int1(int arr[10], int r)
 {
@@ -65,3 +66,6 @@ int main()
 	print1(arr, r);
 	return 0;
 }
+=======
+//}
+>>>>>>> 9bad20b0e348cafceb011c35a39ed0f6336c0950

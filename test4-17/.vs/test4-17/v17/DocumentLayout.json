@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "test4-17\\test4-17.c",
               "ToolTip": "C:\\code\\C-code\\test4-17\\test4-17\\test4-17.c",
               "RelativeToolTip": "test4-17\\test4-17.c",
+<<<<<<< HEAD
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAADAAAA",
+=======
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAADAAAA",
+>>>>>>> 9bad20b0e348cafceb011c35a39ed0f6336c0950
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-17T01:49:38.796Z",
               "EditorCaption": ""
