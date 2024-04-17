@@ -1,0 +1,4 @@
+﻿  test4-17.c
+C:\code\C-code\test4-17\test4-17\test4-17.c(31,12): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\code\C-code\test4-17\test4-17\test4-17.c(41,11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  test4-17.vcxproj -> C:\code\C-code\test4-17\x64\Debug\test4-17.exe
