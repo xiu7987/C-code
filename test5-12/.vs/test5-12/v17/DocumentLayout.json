@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\15890\\source\\repos\\test5-12\\",
+  "WorkspaceRootPath": "C:\\code\\C-code\\test5-12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9021AE2E-5E1A-4B96-8AC2-951AB7D7D6D5}|test5-12\\test5-12.vcxproj|C:\\Users\\15890\\source\\repos\\test5-12\\test5-12\\test5-12,c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9021AE2E-5E1A-4B96-8AC2-951AB7D7D6D5}|test5-12\\test5-12.vcxproj|solutionrelative:test5-12\\test5-12,c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9021AE2E-5E1A-4B96-8AC2-951AB7D7D6D5}|test5-12\\test5-12.vcxproj|C:\\code\\C-code\\test5-12\\test5-12\\test5-12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9021AE2E-5E1A-4B96-8AC2-951AB7D7D6D5}|test5-12\\test5-12.vcxproj|solutionrelative:test5-12\\test5-12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "test5-12,c.cpp",
-              "DocumentMoniker": "C:\\Users\\15890\\source\\repos\\test5-12\\test5-12\\test5-12,c.cpp",
-              "RelativeDocumentMoniker": "test5-12\\test5-12,c.cpp",
-              "ToolTip": "C:\\Users\\15890\\source\\repos\\test5-12\\test5-12\\test5-12,c.cpp",
-              "RelativeToolTip": "test5-12\\test5-12,c.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-12T03:11:14.766Z",
+              "Title": "test5-12.c",
+              "DocumentMoniker": "C:\\code\\C-code\\test5-12\\test5-12\\test5-12.c",
+              "RelativeDocumentMoniker": "test5-12\\test5-12.c",
+              "ToolTip": "C:\\code\\C-code\\test5-12\\test5-12\\test5-12.c",
+              "RelativeToolTip": "test5-12\\test5-12.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-12T07:56:08.469Z",
               "EditorCaption": ""
             }
           ]

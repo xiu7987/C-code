@@ -1,0 +1,9 @@
+﻿  test5-12.c
+C:\code\C-code\test5-12\test5-12\test5-12.c(7,17): error C2057: 应输入常量表达式
+C:\code\C-code\test5-12\test5-12\test5-12.c(7,18): error C2466: 不能分配常量大小为 0 的数组
+C:\code\C-code\test5-12\test5-12\test5-12.c(7,20): error C2057: 应输入常量表达式
+C:\code\C-code\test5-12\test5-12\test5-12.c(7,21): error C2466: 不能分配常量大小为 0 的数组
+C:\code\C-code\test5-12\test5-12\test5-12.c(7,13): error C2087: “arr”: 缺少下标
+C:\code\C-code\test5-12\test5-12\test5-12.c(7,13): error C2133: “arr”: 未知的大小
+C:\code\C-code\test5-12\test5-12\test5-12.c(5,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\code\C-code\test5-12\test5-12\test5-12.c(15,17): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
