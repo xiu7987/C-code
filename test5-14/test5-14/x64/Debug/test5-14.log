@@ -1,0 +1,77 @@
+﻿  test5-14.c
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(18,17): warning C4013: “strlen”未定义；假设外部返回 int
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(21,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(21,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(22,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(22,9):
+  请考虑在格式字符串中使用“%zd”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(58,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(58,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(58,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(59,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(59,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(59,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(63,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(63,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(63,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(64,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(64,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(64,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(71,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(71,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(71,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(72,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(72,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(72,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(73,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(73,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(73,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(74,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(74,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(74,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(75,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(75,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(75,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(76,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(76,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(76,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(77,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(77,9):
+  请考虑在格式字符串中使用“%d”
+  C:\Users\15890\source\repos\test5-14\test5-14\test5-14.c(77,9):
+  请考虑在格式字符串中使用“%I32d”
+  
+  test5-14.vcxproj -> C:\Users\15890\source\repos\test5-14\x64\Debug\test5-14.exe
