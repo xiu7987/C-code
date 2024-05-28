@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 208,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "test4-25\\test4-25.c",
               "ToolTip": "C:\\code\\C-code\\test4-25\\test4-25\\test4-25.c",
               "RelativeToolTip": "test4-25\\test4-25.c",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAiwFMAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-25T05:01:38.884Z",
               "EditorCaption": ""
