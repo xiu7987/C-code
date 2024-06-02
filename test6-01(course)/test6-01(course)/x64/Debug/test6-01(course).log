@@ -1,0 +1,6 @@
+﻿  supplement.c
+C:\code\C-code\test6-01(course)\test6-01(course)\supplement.c(34,15): warning C4047: “函数”:“const size_t”与“char [3]”的间接级别不同
+C:\code\C-code\test6-01(course)\test6-01(course)\supplement.c(34,15): warning C4024: “sprintf_s”: 形参和实参 2 的类型不同
+C:\code\C-code\test6-01(course)\test6-01(course)\supplement.c(34,21): warning C4047: “函数”:“const char *const ”与“int”的间接级别不同
+C:\code\C-code\test6-01(course)\test6-01(course)\supplement.c(34,21): warning C4024: “sprintf_s”: 形参和实参 3 的类型不同
+  test6-01(course).vcxproj -> C:\code\C-code\test6-01(course)\x64\Debug\test6-01(course).exe
