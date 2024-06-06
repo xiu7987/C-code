@@ -1,0 +1,46 @@
+# NijigenNotificationSoundCollection - 二次元提示音集合
+
+## 注意
+
+在本系列中，本人提供的AI合成音频技术所产生的音频仅限于学习和研究目的，不得用于任何商业活动或其他非法用途。使用者需要自行承担因违反上述规定而产生的所有后果。
+
+## 关于文件结构
+NijigenNotificationSoundCollection 里的 SoundPackages 是我制作的各个提示音包，可以按需下载；还有一个Scripts是脚本包，用于快速设置 Windows 提示音。
+其中，Yuzusoft 是柚子社的提示音包，BlueArchive 是蔚蓝档案的提示音包。
+
+## 如何设置提示音
+
+### 方法一：手动设置（包括 Windows系统 和 手机）
+
+Win11 开机提示音修改: https://zhuanlan.zhihu.com/p/470804624
+Win 其他提示音修改: https://www.bilibili.com/video/BV14C411p7Nh/
+手机通知提示音修改: https://www.bilibili.com/video/BV1QE411p7sj
+Vivo手机的充电提示音修改: https://bbs.vivo.com.cn/newbbs/thread/34612990
+旧版 QQ 提示音修改: https://zhinan.sogou.com/guide/detail/?id=316513632683
+NT QQ 提示音修改: https://www.bilibili.com/read/cv25424079
+
+### 方法二：Windows 提示音修改脚本（仅限 Windows 系统）
+
+我写了一个快速修改提示音的脚本，这样就不需要一个一个设置了。
+查看脚本使用说明和下载脚本可以见以下链接：
+https://github.com/AkagawaTsurunaki/Windows-Notification-Sound-Modification-Script
+
+> 如果您有其他问题，欢迎进群交流。
+> 赤川焼鳥屋：1群   858378209 (已满)
+> 赤川拉麺屋：2群   702857685 
+> 赤川居酒屋：3群   617660302 
+
+## 关于作者
+
+Ciallo～(∠・ω< )⌒★ 我是赤川鹤鸣。
+一个DD、柚子厨，正在学画画的，亦有小说连载的，成分复杂的程序员喵。
+正在开发 AI 猫娘喵，进群可以调戏群主和 AI 猫娘喵！还能玩 Minecraft 喵。
+
+## 联系方式
+
+Bilibili：赤川鶴鳴_Channel
+Pixiv：赤川鶴鳴
+Github：AkagawaTsurunaki
+Email：AkagawaTsurunaki@outlook.com
+
+
