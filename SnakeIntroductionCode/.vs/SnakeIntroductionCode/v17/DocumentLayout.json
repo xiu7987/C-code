@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\C-code\\SnakeIntroductionCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D496D9-9DB0-48AE-9A3E-54F01A113733}|SnakeIntroductionCode\\SnakeIntroductionCode.vcxproj|C:\\code\\C-code\\SnakeIntroductionCode\\SnakeIntroductionCode\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04D496D9-9DB0-48AE-9A3E-54F01A113733}|SnakeIntroductionCode\\SnakeIntroductionCode.vcxproj|solutionrelative:SnakeIntroductionCode\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D496D9-9DB0-48AE-9A3E-54F01A113733}|SnakeIntroductionCode\\SnakeIntroductionCode.vcxproj|C:\\code\\C-code\\SnakeIntroductionCode\\SnakeIntroductionCode\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04D496D9-9DB0-48AE-9A3E-54F01A113733}|SnakeIntroductionCode\\SnakeIntroductionCode.vcxproj|solutionrelative:SnakeIntroductionCode\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D496D9-9DB0-48AE-9A3E-54F01A113733}|SnakeIntroductionCode\\SnakeIntroductionCode.vcxproj|C:\\code\\C-code\\SnakeIntroductionCode\\SnakeIntroductionCode\\Snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04D496D9-9DB0-48AE-9A3E-54F01A113733}|SnakeIntroductionCode\\SnakeIntroductionCode.vcxproj|solutionrelative:SnakeIntroductionCode\\Snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snake.h",
+              "DocumentMoniker": "C:\\code\\C-code\\SnakeIntroductionCode\\SnakeIntroductionCode\\Snake.h",
+              "RelativeDocumentMoniker": "SnakeIntroductionCode\\Snake.h",
+              "ToolTip": "C:\\code\\C-code\\SnakeIntroductionCode\\SnakeIntroductionCode\\Snake.h",
+              "RelativeToolTip": "SnakeIntroductionCode\\Snake.h",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-24T11:37:35.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.c",
+              "DocumentMoniker": "C:\\code\\C-code\\SnakeIntroductionCode\\SnakeIntroductionCode\\Snake.c",
+              "RelativeDocumentMoniker": "SnakeIntroductionCode\\Snake.c",
+              "ToolTip": "C:\\code\\C-code\\SnakeIntroductionCode\\SnakeIntroductionCode\\Snake.c",
+              "RelativeToolTip": "SnakeIntroductionCode\\Snake.c",
+              "ViewState": "AQIAADgBAAAAAAAAAAAAACUBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-24T11:27:33.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "C:\\code\\C-code\\SnakeIntroductionCode\\SnakeIntroductionCode\\test.c",
+              "RelativeDocumentMoniker": "SnakeIntroductionCode\\test.c",
+              "ToolTip": "C:\\code\\C-code\\SnakeIntroductionCode\\SnakeIntroductionCode\\test.c",
+              "RelativeToolTip": "SnakeIntroductionCode\\test.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-24T11:37:22.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
