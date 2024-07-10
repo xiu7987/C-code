@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\code\\C-code\\snake\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C8D5885-FE52-4B4F-904C-78AE73DFFF4E}|snake\\snake.vcxproj|C:\\code\\C-code\\snake\\snake\\snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C8D5885-FE52-4B4F-904C-78AE73DFFF4E}|snake\\snake.vcxproj|solutionrelative:snake\\snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C8D5885-FE52-4B4F-904C-78AE73DFFF4E}|snake\\snake.vcxproj|C:\\code\\C-code\\snake\\snake\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C8D5885-FE52-4B4F-904C-78AE73DFFF4E}|snake\\snake.vcxproj|solutionrelative:snake\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8D5885-FE52-4B4F-904C-78AE73DFFF4E}|snake\\snake.vcxproj|C:\\code\\C-code\\snake\\snake\\snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C8D5885-FE52-4B4F-904C-78AE73DFFF4E}|snake\\snake.vcxproj|solutionrelative:snake\\snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C8D5885-FE52-4B4F-904C-78AE73DFFF4E}|snake\\snake.vcxproj|C:\\code\\C-code\\snake\\snake\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,18 +38,17 @@
               "RelativeToolTip": "snake\\snake.h",
               "ViewState": "AQIAADwAAAAAAAAAAAAAAAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-22T06:38:25.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T06:38:25.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "test.c",
               "DocumentMoniker": "C:\\code\\C-code\\snake\\snake\\test.c",
               "RelativeDocumentMoniker": "snake\\test.c",
               "ToolTip": "C:\\code\\C-code\\snake\\snake\\test.c",
               "RelativeToolTip": "snake\\test.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-22T06:34:43.181Z",
               "EditorCaption": ""
@@ -62,7 +61,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "snake.c",
               "DocumentMoniker": "C:\\code\\C-code\\snake\\snake\\snake.c",
               "RelativeDocumentMoniker": "snake\\snake.c",
