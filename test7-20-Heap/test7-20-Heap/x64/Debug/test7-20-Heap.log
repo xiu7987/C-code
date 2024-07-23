@@ -1,0 +1,5 @@
+﻿  Heap.c
+  test.c
+C:\code\C-code\test7-20-Heap\test7-20-Heap\test.c(29,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  test7-20-Heap.vcxproj -> C:\code\C-code\test7-20-Heap\x64\Debug\test7-20-Heap.exe
