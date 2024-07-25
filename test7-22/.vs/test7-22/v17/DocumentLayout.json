@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\C-code\\test7-22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|C:\\code\\C-code\\test7-22\\test7-22\\Tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|solutionrelative:test7-22\\Tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|C:\\code\\C-code\\test7-22\\test7-22\\test7-22.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|solutionrelative:test7-22\\test7-22.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|C:\\code\\C-code\\test7-22\\test7-22\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|solutionrelative:test7-22\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|C:\\code\\C-code\\test7-22\\test7-22\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|solutionrelative:test7-22\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|C:\\code\\C-code\\test7-22\\test7-22\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34B6BDDF-6208-4A77-A3F7-036DB8B56B91}|test7-22\\test7-22.vcxproj|solutionrelative:test7-22\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queue.h",
+              "DocumentMoniker": "C:\\code\\C-code\\test7-22\\test7-22\\Queue.h",
+              "RelativeDocumentMoniker": "test7-22\\Queue.h",
+              "ToolTip": "C:\\code\\C-code\\test7-22\\test7-22\\Queue.h",
+              "RelativeToolTip": "test7-22\\Queue.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-22T08:11:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queue.c",
+              "DocumentMoniker": "C:\\code\\C-code\\test7-22\\test7-22\\Queue.c",
+              "RelativeDocumentMoniker": "test7-22\\Queue.c",
+              "ToolTip": "C:\\code\\C-code\\test7-22\\test7-22\\Queue.c",
+              "RelativeToolTip": "test7-22\\Queue.c",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAiwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-22T08:11:56.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tree.h",
+              "DocumentMoniker": "C:\\code\\C-code\\test7-22\\test7-22\\Tree.h",
+              "RelativeDocumentMoniker": "test7-22\\Tree.h",
+              "ToolTip": "C:\\code\\C-code\\test7-22\\test7-22\\Tree.h",
+              "RelativeToolTip": "test7-22\\Tree.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-22T06:13:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tree.c",
+              "DocumentMoniker": "C:\\code\\C-code\\test7-22\\test7-22\\Tree.c",
+              "RelativeDocumentMoniker": "test7-22\\Tree.c",
+              "ToolTip": "C:\\code\\C-code\\test7-22\\test7-22\\Tree.c",
+              "RelativeToolTip": "test7-22\\Tree.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-22T06:15:42.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test7-22.c",
+              "DocumentMoniker": "C:\\code\\C-code\\test7-22\\test7-22\\test7-22.c",
+              "RelativeDocumentMoniker": "test7-22\\test7-22.c",
+              "ToolTip": "C:\\code\\C-code\\test7-22\\test7-22\\test7-22.c",
+              "RelativeToolTip": "test7-22\\test7-22.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-07-22T01:30:53.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
