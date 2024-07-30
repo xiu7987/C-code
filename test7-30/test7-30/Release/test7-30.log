@@ -1,0 +1,8 @@
+﻿  test.c
+C:\Users\15890\source\repos\test7-30\test7-30\test.c(5,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  2 of 16 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  test7-30.vcxproj -> C:\Users\15890\source\repos\test7-30\Release\test7-30.exe
