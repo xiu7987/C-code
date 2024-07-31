@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\15890\source\repos\test7-30\test7-30\test.c(5,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\15890\source\repos\test7-30\test7-30\test.c(48,2): warning C4013: “MergeSort”未定义；假设外部返回 int
+  test7-30.vcxproj -> C:\Users\15890\source\repos\test7-30\x64\Debug\test7-30.exe

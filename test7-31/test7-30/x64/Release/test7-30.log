@@ -1,0 +1,10 @@
+﻿  sort.c
+  test.c
+C:\Users\15890\source\repos\test7-30\test7-30\test.c(5,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\15890\source\repos\test7-30\test7-30\test.c(48,2): warning C4013: “MergeSort”未定义；假设外部返回 int
+  正在生成代码
+  11 of 20 functions (55.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  test7-30.vcxproj -> C:\Users\15890\source\repos\test7-30\x64\Release\test7-30.exe
